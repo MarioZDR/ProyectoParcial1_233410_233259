@@ -1,5 +1,5 @@
 /**
- * Clase validadores.java creada el 15/02/2023.
+ * Clase Validadores.java creada el 15/02/2023.
  */
 package validadores;
 
