@@ -1,0 +1,56 @@
+@options
+@packages
+-classpath
+'C:/Users/user/.m2/repository/com/github/lgooddatepicker/LGoodDatePicker/11.2.1/LGoodDatePicker-11.2.1.jar;C:/Users/user/.m2/repository/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar;C:/Users/user/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar;C:/Users/user/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE160/AbsoluteLayout-RELEASE160.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/user/OneDrive/Escritorio/ProyectoBDA1/ProyectoBDA_233410_233259/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/OneDrive/Escritorio/ProyectoBDA1/ProyectoBDA_233410_233259/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoBDA_233410_233259 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/user/OneDrive/Escritorio/ProyectoBDA1/ProyectoBDA_233410_233259/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoBDA_233410_233259 1.0-SNAPSHOT API'
+auxiliares
+dominio
+excepciones
+implementaciones
+interfaces
+principal
+UI
+Validadores
+C:\Users\user\.m2\repository\com\github\lgooddatepicker\LGoodDatePicker\11.2.1\LGoodDatePicker-11.2.1.jar = 1676758898708
+C:\Users\user\.m2\repository\com\mysql\mysql-connector-j\8.0.32\mysql-connector-j-8.0.32.jar = 1676758899539
+C:\Users\user\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1676758899366
+C:\Users\user\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE160\AbsoluteLayout-RELEASE160.jar = 1676758898721
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\src\main\java = 1676956180167
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\allclasses-frame.html = 1676956837400
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\allclasses-noframe.html = 1676956837402
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\constant-values.html = 1676956836949
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\deprecated-list.html = 1676956837395
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\help-doc.html = 1676956837413
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\index-all.html = 1676956837391
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\index.html = 1676956837405
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\javadoc.bat = 1676956235964
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\overview-frame.html = 1676956836814
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\overview-summary.html = 1676956837410
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\overview-tree.html = 1676956837339
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\package-list = 1676956836810
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\script.js = 1676956837415
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\serialized-form.html = 1676956836991
+C:\Users\user\OneDrive\Escritorio\ProyectoBDA1\ProyectoBDA_233410_233259\target\site\apidocs\stylesheet.css = 1676956235866
